@@ -1,5 +1,10 @@
 # HotelApp
 React Native (Expo)
+## Detail
+1. We added a QR code scanner for scan hotel QR code
+2. See Hotel Info, Hotel Activities, Room Service, Restaurant, Event for Hotel
+3.  Booking Activities
+4. See Booking List
 
 # For Run this code 
 
